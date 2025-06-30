@@ -8,3 +8,10 @@ wheels/
 
 # Virtual environments
 .venv
+
+# configuration files
+config/config.json
+bin/config.json
+
+# log files
+log/
