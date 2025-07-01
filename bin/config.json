@@ -1,12 +1,12 @@
 {
-    "profileId": "10588",
+    "profileId": "",
     "wanted_course_ids": [
-        "395854",
-        "393545",
-        "402551",
-        "402478"
+        "",
+        "",
+        "",
+        ""
     ],
-    "cookies_raw": "_body_color_theme=%23FFFFFF;semester.id=3729;_ga=GA1.3.354670594.1740792600;JSESSIONID=CFCFC8BC3EF49461DDE60FD4A085C0EA;sensorsdata2015jssdkcross=%7B%22distinct_id%22%3A%2219653329bda1f8-00cf0c267cdfe748-26011c51-1395396-19653329bdb107b%22%2C%22first_id%22%3A%22%22%2C%22props%22%3A%7B%7D%2C%22identities%22%3A%22eyIkaWRlbnRpdHlfY29va2llX2lkIjoiMTk2NTMzMjliZGExZjgtMDBjZjBjMjY3Y2RmZTc0OC0yNjAxMWM1MS0xMzk1Mzk2LTE5NjUzMzI5YmRiMTA3YiJ9%22%2C%22history_login_id%22%3A%7B%22name%22%3A%22%22%2C%22value%22%3A%22%22%7D%2C%22%24device_id%22%3A%2219653329bda1f8-00cf0c267cdfe748-26011c51-1395396-19653329bdb107b%22%7D;SF_cookie_75=15232209",
+    "cookies_raw": "",
     "request_frequence": [
         5,
         15
